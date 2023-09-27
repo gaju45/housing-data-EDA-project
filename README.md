@@ -3,20 +3,17 @@
 
 
 
-# Housing Data EDA Project
+# Capstone EDA Project Housing Data Analysis
 
 ## Project Summary :
 
 This is an EDA (Exploratory Data Analysis) project that focuses on exploring and analyzing a housing dataset. The dataset used in this project consists of various attributes related to housing properties, such as location, size, number of rooms, and prices.
 
-## Objective :
 
-* The objective of this project is to gain insights into the housing market trends, patterns, and factors influencing housing prices.
+## About Dataset :
 
-
-## Dataset
-
-The housing dataset used in this project contains information about different housing properties. The dataset includes the following columns:
+The housing dataset used in this project contains information about different housing properties. 
+#### The dataset includes the following columns:
 
 * longitude: The longitude coordinates of the property's location.
 * latitude: The latitude coordinates of the property's location.
@@ -29,18 +26,34 @@ The housing dataset used in this project contains information about different ho
 * median_house_value: The median value of owner-occupied homes in the property's neighborhood.
 * ocean_proximity: The proximity of the property to the ocean or other bodies of water.
 
+## Different Python libraries used to complete this EDA :
 
-# Methodology
+* Pandas
+* NumPy
+* Matplotlib.Pyplot
+* Seaborn
 
-To gain insights, we analyzed the dataset using techniques like data cleaning, visualization, and statistical analysis.
+# Project Work flow :
+
+1. Importing Libraries
+
+1. Loading the Dataset
+
+1. explore Dataset
+
+1. Data Cleaning and manipulate
+
+1. Data Visualization
+
+1. Conclusion
 
 
-# Results
+# Results :
 
 The results show trends and correlations among the variables. We discovered valuable information about housing attributes and factors that influence prices.
 
 
-# Conclusion
+# The purpose of the analysis :
 
 This EDA project provides valuable insights into housing market trends. It's useful for individuals, real estate professionals.
 
